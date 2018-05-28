@@ -1,0 +1,632 @@
+name,positions,age,nationality
+Eden Hazard,Midfielder (Centre),19 years old (08-05-1998),England
+Marcos Alonso,"Defender (Centre, Left) 
+ Midfielder (Left)",26 years old (28-12-1990),Spain
+Diego Costa,Forward,28 years old (07-10-1988),Spain
+N'Golo Kanté,Defensive Midfielder (C),26 years old (29-03-1991),France
+Victor Moses,"Midfielder (Centre, Left, Right)",26 years old (12-12-1990),Nigeria
+César Azpilicueta,"Defender (Centre, Left, Right) 
+ Midfielder (Right)",27 years old (28-08-1989),Spain
+David Luiz,"Defender (Centre) 
+ Defensive Midfielder (C)",30 years old (22-04-1987),Brazil
+Pedro,"Midfielder (Centre, Left, Right)",30 years old (28-07-1987),Spain
+Gary Cahill,Defender (Centre),31 years old (19-12-1985),England
+Cesc Fàbregas,"Midfielder (Centre, Left) 
+ Forward",30 years old (04-05-1987),Spain
+Nemanja Matic,Defensive Midfielder (C),29 years old (01-08-1988),Serbia
+Willian,"Attacking Midfielder (Centre, Left, Right)",29 years old (09-08-1988),Brazil
+Thibaut Courtois,Goalkeeper,25 years old (11-05-1992),Belgium
+Oscar,"Attacking Midfielder (Centre, Left, Right)",25 years old (09-09-1991),Brazil
+Nathan Aké,"Defender (Centre, Left) 
+ Defensive Midfielder (C)",22 years old (18-02-1995),Netherlands
+Branislav Ivanovic,"Defender (Centre, Right)",33 years old (22-02-1984),Serbia
+Kenedy,Midfielder,21 years old (08-02-1996),Brazil
+John Terry,Defender (Centre),36 years old (07-12-1980),England
+Michy Batshuayi,Forward,23 years old (02-10-1993),Belgium
+Nathaniel Chalobah,Defensive Midfielder (C),22 years old (12-12-1994),England
+Kurt Zouma,"Defender (Centre, Right)",22 years old (27-10-1994),France
+Ola Aina,Defender,20 years old (08-10-1996),England
+Ruben Loftus-Cheek,Midfielder (Centre),21 years old (23-01-1996),England
+Asmir Begovic,Goalkeeper,30 years old (20-06-1987),Bosnia-Herzegovina
+Mousa Dembélé,"Midfielder (Centre, Right)",30 years old (16-07-1987),Belgium
+Christian Eriksen,"Midfielder (Centre, Left, Right)",25 years old (14-02-1992),Denmark
+Victor Wanyama,Defensive Midfielder (C),26 years old (25-06-1991),Kenya
+Jan Vertonghen,"Defender (Centre, Left)",30 years old (24-04-1987),Belgium
+Kyle Walker,"Defender (Right) 
+ Midfielder (Right)",27 years old (28-05-1990),England
+Ben Davies,"Defender (Centre, Left) 
+ Midfielder (Left)",24 years old (24-04-1993),Wales
+Toby Alderweireld,"Defender (Centre, Right)",28 years old (02-03-1989),Belgium
+Harry Kane,"Attacking Midfielder (Centre) 
+ Forward",24 years old (28-07-1993),England
+Eric Dier,"Defender (Centre, Right) 
+ Defensive Midfielder (C)",23 years old (15-01-1994),England
+Harry Winks,Midfielder (Centre),19 years old (08-05-1998),England
+Son Heung-Min,"Attacking Midfielder (Centre, Left, Right) 
+ Forward",25 years old (08-07-1992),South Korea
+Moussa Sissoko,"Midfielder (Centre, Right)",28 years old (16-08-1989),France
+Georges-Kévin Nkoudou,"Attacking Midfielder (Left, Right)",22 years old (13-02-1995),France
+Hugo Lloris,Goalkeeper,30 years old (26-12-1986),France
+Vincent Janssen,Forward,23 years old (15-06-1994),Netherlands
+Dele Alli,"Midfielder (Centre, Left)",21 years old (11-04-1996),England
+Kevin De Bruyne,"Attacking Midfielder (Centre, Left, Right) 
+ Forward",26 years old (28-06-1991),Belgium
+Nicolás Otamendi,Defender (Centre),29 years old (12-02-1988),Argentina
+Gabriel Jesus,"Attacking Midfielder (Left, Right) 
+ Forward",20 years old (03-04-1997),Brazil
+Sergio Agüero,"Attacking Midfielder (Centre, Left) 
+ Forward",29 years old (02-06-1988),Argentina
+Aleksandar Kolarov,"Defender (Centre, Left) 
+ Midfielder (Left)",31 years old (10-11-1985),Serbia
+David Silva,"Midfielder (Centre, Left, Right)",31 years old (08-01-1986),Spain
+Vincent Kompany,Defender (Centre),31 years old (10-04-1986),Belgium
+Yaya Touré,Midfielder (Centre),34 years old (13-05-1983),Ivory Coast
+Fernandinho,"Defender (Right) 
+ Defensive Midfielder (C)",32 years old (04-05-1985),Brazil
+Ilkay Gündogan,Midfielder (Centre),19 years old (08-05-1998),England
+Leroy Sané,"Midfielder (Left, Right)",21 years old (11-01-1996),Germany
+Raheem Sterling,"Midfielder (Centre, Left, Right) 
+ Forward",22 years old (08-12-1994),England
+Gaël Clichy,Defender (Left),32 years old (26-07-1985),France
+Bacary Sagna,"Defender (Centre, Right)",34 years old (14-02-1983),France
+John Stones,"Defender (Centre, Right)",23 years old (28-05-1994),England
+Pablo Zabaleta,Defender (Right),32 years old (16-01-1985),Argentina
+Willy Caballero,Goalkeeper,35 years old (28-09-1981),Argentina
+Nolito,Attacking Midfielder (Left),30 years old (15-10-1986),Spain
+Fabian Delph,"Midfielder (Centre, Left)",27 years old (21-11-1989),England
+Jesús Navas,"Defender (Right) 
+ Midfielder (Right)",31 years old (21-11-1985),Spain
+Fernando,Defensive Midfielder (C),30 years old (25-07-1987),Brazil
+Kelechi Iheanacho,Forward,20 years old (03-10-1996),Nigeria
+Claudio Bravo,Goalkeeper,34 years old (13-04-1983),Chile
+Samir Nasri,Midfielder (Centre),19 years old (08-05-1998),England
+Aleix García,Midfielder,20 years old (28-06-1997),Spain
+Philippe Coutinho,"Midfielder (Centre, Left, Right)",25 years old (12-06-1992),Brazil
+Roberto Firmino,"Midfielder (Centre, Left, Right) 
+ Forward",25 years old (02-10-1991),Brazil
+Sadio Mané,"Attacking Midfielder (Centre, Left, Right)",25 years old (10-04-1992),Senegal
+Jordan Henderson,"Midfielder (Centre, Left, Right)",27 years old (17-06-1990),England
+James Milner,"Defender (Left) 
+ Midfielder (Centre, Left, Right)",31 years old (04-01-1986),England
+Dejan Lovren,Defender (Centre),28 years old (05-07-1989),Croatia
+Joel Matip,Defender (Centre),26 years old (08-08-1991),Cameroon
+Adam Lallana,"Attacking Midfielder (Centre, Left, Right)",29 years old (10-05-1988),England
+Emre Can,"Defender (Centre, Left, Right) 
+ Defensive Midfielder (C)",23 years old (12-01-1994),Germany
+Georginio Wijnaldum,"Midfielder (Centre, Left)",26 years old (11-11-1990),Netherlands
+Nathaniel Clyne,"Defender (Right) 
+ Midfielder (Right)",26 years old (05-04-1991),England
+Simon Mignolet,Goalkeeper,29 years old (06-03-1988),Belgium
+Lucas Leiva,"Defender (Centre) 
+ Midfielder (Centre)",30 years old (09-01-1987),Brazil
+Ragnar Klavan,Defender (Centre),31 years old (30-10-1985),Estonia
+Daniel Sturridge,"Midfielder (Right) 
+ Forward",27 years old (01-09-1989),England
+Divock Origi,"Attacking Midfielder (Left, Right) 
+ Forward",22 years old (18-04-1995),Belgium
+Loris Karius,Goalkeeper,24 years old (22-06-1993),Germany
+Alberto Moreno,"Defender (Left) 
+ Midfielder (Left)",25 years old (05-07-1992),Spain
+Marko Grujic,Midfielder (Centre),19 years old (08-05-1998),England
+Trent Alexander-Arnold,Midfielder (Centre),19 years old (08-05-1998),England
+Ben Woodburn,Midfielder (Centre),19 years old (08-05-1998),England
+Kevin Stewart,Defensive Midfielder (C),23 years old (07-09-1993),England
+Ovie Ejaria,Midfielder (Centre),19 years old (18-11-1997),England
+Alexis Sánchez,"Midfielder (Centre, Left, Right) 
+ Forward",28 years old (19-12-1988),Chile
+Calum Chambers,"Defender (Centre, Right)",22 years old (20-01-1995),England
+Shkodran Mustafi,"Defender (Centre, Right)",25 years old (17-04-1992),Germany
+Mesut Özil,"Midfielder (Centre, Left, Right)",28 years old (15-10-1988),Germany
+Laurent Koscielny,Defender (Centre),31 years old (10-09-1985),France
+Santi Cazorla,"Midfielder (Centre, Left, Right)",32 years old (13-12-1984),Spain
+Carl Jenkinson,Defender (Right),25 years old (08-02-1992),England
+Alex Oxlade-Chamberlain,"Midfielder (Centre, Left, Right)",24 years old (15-08-1993),England
+Theo Walcott,"Midfielder (Left, Right) 
+ Forward",28 years old (16-03-1989),England
+Kieran Gibbs,Midfielder (Centre),19 years old (08-05-1998),England
+Nacho Monreal,"Defender (Centre, Left)",31 years old (26-02-1986),Spain
+Rob Holding,Midfielder (Centre),19 years old (08-05-1998),England
+Granit Xhaka,Midfielder (Centre),24 years old (27-09-1992),Switzerland
+Petr Cech,Goalkeeper,35 years old (20-05-1982),Czech Republic
+Gabriel Paulista,"Defender (Centre, Right)",26 years old (26-11-1990),Brazil
+Olivier Giroud,Forward,30 years old (30-09-1986),France
+Héctor Bellerín,"Defender (Right) 
+ Midfielder (Right)",22 years old (19-03-1995),Spain
+Francis Coquelin,Midfielder (Centre),19 years old (08-05-1998),England
+Alex Iwobi,"Attacking Midfielder (Centre, Left, Right)",21 years old (03-05-1996),Nigeria
+Per Mertesacker,Defender (Centre),32 years old (29-09-1984),Germany
+Aaron Ramsey,"Midfielder (Centre, Right)",26 years old (26-12-1990),Wales
+Emiliano Martínez,Goalkeeper,24 years old (02-09-1992),Argentina
+Danny Welbeck,"Attacking Midfielder (Centre, Left, Right) 
+ Forward",26 years old (26-11-1990),England
+Mohamed Elneny,Defensive Midfielder (C),25 years old (11-07-1992),Egypt
+Mathieu Debuchy,Defender (Right),32 years old (28-07-1985),France
+Jack Wilshere,Midfielder (Centre),19 years old (08-05-1998),England
+Lucas Pérez,"Attacking Midfielder (Centre, Right) 
+ Forward",28 years old (10-09-1988),Spain
+David Ospina,Goalkeeper,28 years old (31-08-1988),Colombia
+Ainsley Maitland-Niles,Midfielder (Centre),19 years old (08-05-1998),England
+Paul Pogba,Midfielder (Centre),24 years old (15-03-1993),France
+Zlatan Ibrahimovic,Forward,35 years old (03-10-1981),Sweden
+Ander Herrera,Midfielder (Centre),28 years old (14-08-1989),Spain
+Marouane Fellaini,Midfielder (Centre),29 years old (22-11-1987),Belgium
+Daley Blind,"Defender (Centre, Left) 
+ Defensive Midfielder (C) 
+ Midfielder (Left)",27 years old (09-03-1990),Netherlands
+Matteo Darmian,"Defender (Centre, Left, Right) 
+ Midfielder (Left, Right)",27 years old (02-12-1989),Italy
+Sergio Romero,Goalkeeper,30 years old (22-02-1987),Argentina
+Luke Shaw,Midfielder (Centre),19 years old (08-05-1998),England
+Chris Smalling,"Defender (Centre, Right)",27 years old (22-11-1989),England
+Juan Mata,"Attacking Midfielder (Centre, Left, Right)",29 years old (28-04-1988),Spain
+Eric Bailly,"Defender (Centre, Right)",23 years old (12-04-1994),Ivory Coast
+Wayne Rooney,"Attacking Midfielder (Centre, Left) 
+ Forward",31 years old (24-10-1985),England
+Michael Carrick,"Defender (Centre) 
+ Midfielder (Centre)",36 years old (28-07-1981),England
+Phil Jones,"Defender (Centre, Right) 
+ Defensive Midfielder (C)",25 years old (21-02-1992),England
+Marcus Rashford,"Attacking Midfielder (Left, Right) 
+ Forward",19 years old (31-10-1997),England
+Marcos Rojo,"Defender (Centre, Left)",27 years old (20-03-1990),Argentina
+Jesse Lingard,"Attacking Midfielder (Centre, Left, Right)",24 years old (15-12-1992),England
+Ashley Young,Midfielder (Centre),19 years old (08-05-1998),England
+Anthony Martial,"Attacking Midfielder (Left, Right) 
+ Forward",21 years old (05-12-1995),France
+Bastian Schweinsteiger,Midfielder (Centre),33 years old (01-08-1984),Germany
+Morgan Schneiderlin,Defensive Midfielder (C),27 years old (08-11-1989),France
+Timothy Fosu-Mensah,Midfielder (Centre),19 years old (08-05-1998),England
+David de Gea,Goalkeeper,26 years old (07-11-1990),Spain
+Memphis Depay,Attacking Midfielder (Left),23 years old (13-02-1994),Netherlands
+Romelu Lukaku,Forward,24 years old (13-05-1993),Belgium
+Idrissa Gueye,Midfielder (Centre),27 years old (26-09-1989),Senegal
+Yannick Bolasie,"Attacking Midfielder (Left, Right) 
+ Forward",28 years old (24-05-1989),DR Congo
+Ross Barkley,"Midfielder (Centre, Left, Right)",23 years old (05-12-1993),England
+Phil Jagielka,"Defender (Centre, Right)",35 years old (17-08-1982),England
+Seamus Coleman,"Defender (Right) 
+ Midfielder (Right)",28 years old (11-10-1988),Ireland
+Ashley Williams,Defender (Centre),33 years old (23-08-1984),Wales
+Joel Robles,Goalkeeper,27 years old (17-06-1990),Spain
+Leighton Baines,"Defender (Left) 
+ Midfielder (Left)",32 years old (11-12-1984),England
+Mason Holgate,Midfielder (Centre),19 years old (08-05-1998),England
+Kevin Mirallas,"Midfielder (Centre, Left, Right) 
+ Forward",29 years old (05-10-1987),Belgium
+Gareth Barry,Midfielder (Centre),36 years old (23-02-1981),England
+Ramiro Funes Mori,Defender (Centre),26 years old (05-03-1991),Argentina
+Tom Davies,Attacking Midfielder (Centre),19 years old (30-06-1998),England
+Bryan Oviedo,Midfielder (Centre),19 years old (08-05-1998),England
+James McCarthy,Midfielder (Centre),26 years old (12-11-1990),Ireland
+Enner Valencia,"Attacking Midfielder (Left, Right) 
+ Forward",27 years old (04-11-1989),Ecuador
+Maarten Stekelenburg,Goalkeeper,34 years old (22-09-1982),Netherlands
+Gerard Deulofeu,"Attacking Midfielder (Left, Right)",23 years old (13-03-1994),Spain
+Matthew Pennington,Defender (Centre),22 years old (06-10-1994),England
+Ademola Lookman,"Attacking Midfielder (Left) 
+ Forward",19 years old (20-10-1997),England
+Aaron Lennon,"Midfielder (Left, Right)",30 years old (16-04-1987),England
+Tom Cleverley,"Midfielder (Centre, Left, Right)",28 years old (12-08-1989),England
+Dominic Calvert-Lewin,Forward,20 years old (16-03-1997),England
+Arouna Koné,"Attacking Midfielder (Left, Right) 
+ Forward",33 years old (11-11-1983),Ivory Coast
+Jonjoe Kenny,Midfielder (Centre),19 years old (08-05-1998),England
+Virgil van Dijk,Defender (Centre),26 years old (08-07-1991),Netherlands
+Matt Targett,Midfielder (Centre),19 years old (08-05-1998),England
+James Ward-Prowse,"Midfielder (Centre, Right)",22 years old (01-11-1994),England
+Maya Yoshida,"Defender (Centre, Right)",29 years old (24-08-1988),Japan
+Nathan Redmond,"Attacking Midfielder (Centre, Left, Right) 
+ Forward",23 years old (06-03-1994),England
+Cuco Martina,Midfielder (Centre),19 years old (08-05-1998),England
+Ryan Bertrand,"Defender (Centre, Left) 
+ Midfielder (Left)",28 years old (05-08-1989),England
+Dusan Tadic,"Attacking Midfielder (Centre, Left, Right)",28 years old (20-11-1988),Serbia
+Pierre-Emile Højbjerg,Midfielder (Centre),19 years old (08-05-1998),England
+Oriol Romeu,Defensive Midfielder (C),25 years old (24-09-1991),Spain
+Sam McQueen,Midfielder (Centre),19 years old (08-05-1998),England
+Cédric Soares,"Defender (Right) 
+ Midfielder (Right)",25 years old (31-08-1991),Portugal
+Jordy Clasie,Defensive Midfielder (C),26 years old (27-06-1991),Netherlands
+Charlie Austin,Forward,28 years old (05-07-1989),England
+Shane Long,"Attacking Midfielder (Right) 
+ Forward",30 years old (22-01-1987),Ireland
+Fraser Forster,Goalkeeper,29 years old (17-03-1988),England
+Jay Rodriguez,"Attacking Midfielder (Centre, Left, Right) 
+ Forward",28 years old (29-07-1989),England
+Steven Davis,"Midfielder (Centre, Left, Right)",32 years old (01-01-1985),N. Ireland
+Josh Sims,Midfielder (Centre),19 years old (08-05-1998),England
+Jake Hesketh,Midfielder (Centre),19 years old (08-05-1998),England
+Sofiane Boufal,"Attacking Midfielder (Centre, Left, Right) 
+ Forward",23 years old (17-09-1993),Morocco
+Steve Cook,Defender (Centre),26 years old (19-04-1991),England
+Joshua King,"Attacking Midfielder (Centre, Left, Right) 
+ Forward",25 years old (15-01-1992),Norway
+Simon Francis,"Defender (Centre, Right)",32 years old (16-02-1985),England
+Charlie Daniels,Defender (Left),30 years old (07-09-1986),England
+Junior Stanislas,"Attacking Midfielder (Left, Right)",27 years old (26-11-1989),England
+Adam Smith,"Defender (Right) 
+ Midfielder (Right)",26 years old (29-04-1991),England
+Marc Pugh,Attacking Midfielder (Left),30 years old (02-04-1987),England
+Lewis Cook,"Midfielder (Centre, Left)",20 years old (03-02-1997),England
+Harry Arter,Midfielder (Centre),27 years old (28-12-1989),Ireland
+Ryan Fraser,"Attacking Midfielder (Left, Right)",23 years old (24-02-1994),Scotland
+Artur Boruc,Goalkeeper,37 years old (20-02-1980),Poland
+Ryan Allsop,Goalkeeper,25 years old (17-06-1992),England
+Andrew Surman,"Midfielder (Centre, Left)",31 years old (20-08-1986),South Africa
+Dan Gosling,Midfielder (Centre),27 years old (01-02-1990),England
+Adam Federici,Goalkeeper,32 years old (31-01-1985),Australia
+Callum Wilson,Forward,25 years old (27-02-1992),England
+Benik Afobe,"Attacking Midfielder (Centre) 
+ Forward",24 years old (12-02-1993),DR Congo
+Jordon Ibe,"Attacking Midfielder (Left, Right)",21 years old (08-12-1995),England
+Tyrone Mings,"Defender (Centre, Left)",24 years old (13-03-1993),England
+Baily Cargill,Midfielder (Centre),19 years old (08-05-1998),England
+Lewis Grabban,Forward,29 years old (12-01-1988),England
+Max Gradel,Midfielder (Centre),19 years old (08-05-1998),England
+Brad Smith,Defender (Left),23 years old (09-04-1994),Australia
+Lys Mousset,Forward,21 years old (08-02-1996),France
+Matt Worthington,Midfielder (Centre),19 years old (08-05-1998),England
+Gareth McAuley,Defender (Centre),37 years old (05-12-1979),N. Ireland
+Matt Phillips,"Midfielder (Left, Right) 
+ Forward",26 years old (13-03-1991),Scotland
+Jonny Evans,"Defender (Centre, Left)",29 years old (03-01-1988),N. Ireland
+Craig Dawson,"Defender (Centre, Right)",27 years old (06-05-1990),England
+Chris Brunt,"Defender (Left) 
+ Midfielder (Centre, Left, Right)",32 years old (14-12-1984),N. Ireland
+Brendan Galloway,Defender (Left),21 years old (17-03-1996),Zimbabwe
+Nyom,"Defender (Left, Right)",29 years old (10-05-1988),Cameroon
+Claudio Yacob,Defensive Midfielder (C),30 years old (18-07-1987),Argentina
+Nacer Chadli,"Attacking Midfielder (Centre, Left, Right)",28 years old (02-08-1989),Belgium
+Ben Foster,Goalkeeper,34 years old (03-04-1983),England
+Salomón Rondón,Forward,27 years old (16-09-1989),Venezuela
+Marc Wilson,Midfielder (Centre),19 years old (08-05-1998),England
+James McClean,"Attacking Midfielder (Centre, Left, Right) 
+ Forward",28 years old (22-04-1989),Ireland
+James Morrison,"Midfielder (Centre, Right)",31 years old (25-05-1986),Scotland
+Darren Fletcher,Midfielder (Centre),33 years old (01-02-1984),Scotland
+Jake Livermore,"Defender (Centre) 
+ Defensive Midfielder (C)",27 years old (14-11-1989),England
+Jonas Olsson,Defender (Centre),34 years old (10-03-1983),Sweden
+Rickie Lambert,Forward,35 years old (16-02-1982),England
+Hal Robson-Kanu,"Attacking Midfielder (Left, Right) 
+ Forward",28 years old (21-05-1989),Wales
+Craig Gardner,"Defender (Right) 
+ Midfielder (Centre, Left, Right)",30 years old (25-11-1986),England
+Sam Field,Midfielder (Centre),19 years old (08-05-1998),England
+Jonathan Leko,Midfielder (Centre),19 years old (08-05-1998),England
+Saido Berahino,"Attacking Midfielder (Centre, Left, Right) 
+ Forward",24 years old (04-08-1993),England
+Dimitri Payet,"Midfielder (Centre, Left, Right)",30 years old (29-03-1987),France
+Andy Carroll,Forward,28 years old (06-01-1989),England
+Michail Antonio,Midfielder (Centre),19 years old (08-05-1998),England
+Arthur Masuaku,"Defender (Left) 
+ Midfielder (Left)",23 years old (07-11-1993),France
+Manuel Lanzini,"Attacking Midfielder (Centre, Left, Right)",24 years old (15-02-1993),Argentina
+Winston Reid,Defender (Centre),29 years old (03-07-1988),New Zealand
+Cheikhou Kouyaté,"Defender (Centre, Right) 
+ Defensive Midfielder (C)",27 years old (21-12-1989),Senegal
+James Collins,Defender (Centre),34 years old (23-08-1983),Wales
+José Fonte,Defender (Centre),33 years old (22-12-1983),Portugal
+Pedro Obiang,Defensive Midfielder (C),25 years old (27-03-1992),Spain
+Angelo Ogbonna,Defender (Centre),29 years old (23-05-1988),Italy
+Adrián,Goalkeeper,30 years old (03-01-1987),Spain
+Darren Randolph,Goalkeeper,30 years old (12-05-1987),Ireland
+Sofiane Feghouli,Midfielder (Right),27 years old (26-12-1989),Algeria
+André Ayew,"Midfielder (Centre, Left, Right) 
+ Forward",27 years old (17-12-1989),Ghana
+Mark Noble,Midfielder (Centre),30 years old (08-05-1987),England
+Sam Byram,"Defender (Right) 
+ Midfielder (Right)",23 years old (16-09-1993),England
+Álvaro Arbeloa,"Defender (Left, Right)",34 years old (17-01-1983),Spain
+Håvard Nordtveit,"Defender (Centre, Right) 
+ Defensive Midfielder (C)",27 years old (21-06-1990),Norway
+Aaron Cresswell,"Defender (Left) 
+ Midfielder (Left)",27 years old (15-12-1989),England
+Robert Snodgrass,"Attacking Midfielder (Centre, Left, Right)",29 years old (07-09-1987),Scotland
+Diafra Sakho,Forward,27 years old (24-12-1989),Senegal
+Simone Zaza,Forward,26 years old (25-06-1991),Italy
+Gökhan Töre,Midfielder (Right),25 years old (20-01-1992),Turkey
+Edimilson Fernandes,Midfielder (Centre),21 years old (15-04-1996),Switzerland
+Jonathan Calleri,Forward,23 years old (23-09-1993),Argentina
+Ashley Fletcher,Forward,21 years old (02-10-1995),England
+Wilfred Ndidi,Defensive Midfielder (C),20 years old (16-12-1996),Nigeria
+Christian Fuchs,"Defender (Centre, Left) 
+ Midfielder (Left)",31 years old (07-04-1986),Austria
+Riyad Mahrez,"Attacking Midfielder (Centre, Left, Right)",26 years old (21-02-1991),Algeria
+Marc Albrighton,"Midfielder (Left, Right)",27 years old (18-11-1989),England
+Kasper Schmeichel,Goalkeeper,30 years old (05-11-1986),Denmark
+Jamie Vardy,"Attacking Midfielder (Left) 
+ Forward",30 years old (11-01-1987),England
+Robert Huth,Midfielder (Centre),19 years old (08-05-1998),England
+Daniel Drinkwater,Defensive Midfielder (C),27 years old (05-03-1990),England
+Yohan Benalouane,"Defender (Centre, Right)",30 years old (28-03-1987),France
+Danny Simpson,Defender (Right),30 years old (04-01-1987),Ireland
+Ben Chilwell,Defender (Left),20 years old (21-12-1996),England
+Islam Slimani,Forward,29 years old (18-06-1988),Algeria
+Wes Morgan,Defender (Centre),33 years old (21-01-1984),Jamaica
+Andy King,Midfielder (Centre),28 years old (29-10-1988),Wales
+Daniel Amartey,"Defender (Right) 
+ Defensive Midfielder (C)",22 years old (21-12-1994),Ghana
+Shinji Okazaki,"Attacking Midfielder (Centre, Left, Right) 
+ Forward",31 years old (16-04-1986),Japan
+Demarai Gray,"Attacking Midfielder (Left, Right)",21 years old (28-06-1996),England
+Nampalys Mendy,Midfielder (Centre),19 years old (08-05-1998),England
+Luis Hernández,Midfielder (Centre),19 years old (08-05-1998),England
+Leonardo Ulloa,Forward,31 years old (26-07-1986),Argentina
+Marcin Wasilewski,"Defender (Centre, Right)",37 years old (09-06-1980),Poland
+Ahmed Musa,"Attacking Midfielder (Centre, Left, Right) 
+ Forward",24 years old (14-10-1992),Nigeria
+Jeffrey Schlupp,"Defender (Left) 
+ Midfielder (Left)",24 years old (23-12-1992),Ghana
+Ron-Robert Zieler,Goalkeeper,28 years old (12-02-1989),Germany
+Matty James,Defensive Midfielder (C),26 years old (22-07-1991),England
+Geoff Cameron,"Defender (Centre, Left, Right) 
+ Defensive Midfielder (C)",32 years old (11-07-1985),USA
+Xherdan Shaqiri,"Midfielder (Centre, Left, Right)",25 years old (10-10-1991),Switzerland
+Joe Allen,Midfielder (Centre),27 years old (14-03-1990),Wales
+Marc Muniesa,"Defender (Centre, Left)",25 years old (27-03-1992),Spain
+Peter Crouch,Forward,36 years old (30-01-1981),England
+Ryan Shawcross,Defender (Centre),29 years old (04-10-1987),England
+Lee Grant,Goalkeeper,34 years old (27-01-1983),England
+Erik Pieters,"Defender (Left) 
+ Midfielder (Left)",29 years old (07-08-1988),Netherlands
+Bruno Martins Indi,"Defender (Centre, Left)",25 years old (08-02-1992),Netherlands
+Marko Arnautovic,"Attacking Midfielder (Left, Right) 
+ Forward",28 years old (19-04-1989),Austria
+Jack Butland,Goalkeeper,24 years old (10-03-1993),England
+Glen Johnson,"Defender (Centre, Left, Right) 
+ Midfielder (Right)",33 years old (23-08-1984),England
+Charlie Adam,Midfielder (Centre),31 years old (10-12-1985),Scotland
+Philipp Wollscheid,Defender (Centre),28 years old (06-03-1989),Germany
+Jonathan Walters,"Midfielder (Centre, Left, Right) 
+ Forward",33 years old (20-09-1983),Ireland
+Mame Biram Diouf,"Midfielder (Left, Right) 
+ Forward",29 years old (16-12-1987),Senegal
+Wilfried Bony,Forward,28 years old (10-12-1988),Ivory Coast
+Glenn Whelan,Defensive Midfielder (C),33 years old (13-01-1984),Ireland
+Bojan,"Attacking Midfielder (Centre, Left, Right) 
+ Forward",26 years old (28-08-1990),Spain
+Phil Bardsley,"Defender (Left, Right)",32 years old (28-06-1985),Scotland
+Ramadan Sobhi,Attacking Midfielder (Left),20 years old (23-01-1997),Egypt
+Shay Given,Goalkeeper,41 years old (20-04-1976),Ireland
+Giannelli Imbula,Defensive Midfielder (C),24 years old (12-09-1992),France
+Ibrahim Afellay,"Midfielder (Centre, Left, Right)",31 years old (02-04-1986),Netherlands
+Julien Ngoy,Midfielder (Centre),19 years old (08-05-1998),England
+Wilfried Zaha,"Attacking Midfielder (Left, Right)",24 years old (10-11-1992),Ivory Coast
+Christian Benteke,Forward,26 years old (03-12-1990),Belgium
+Mile Jedinak,Defensive Midfielder (C),33 years old (03-08-1984),Australia
+Andros Townsend,"Attacking Midfielder (Left, Right)",26 years old (16-07-1991),England
+Mamadou Sakho,Defender (Centre),27 years old (13-02-1990),France
+Luka Milivojevic,Defensive Midfielder (C),26 years old (07-04-1991),Serbia
+Jason Puncheon,"Midfielder (Centre, Left, Right)",31 years old (26-06-1986),England
+Joel Ward,"Defender (Left, Right) 
+ Defensive Midfielder (C) 
+ Midfielder (Right)",27 years old (29-10-1989),England
+Yohan Cabaye,Midfielder (Centre),31 years old (14-01-1986),France
+James Tomkins,"Defender (Centre, Right)",28 years old (29-03-1989),England
+Scott Dann,Defender (Centre),30 years old (14-02-1987),England
+Pape Souaré,"Defender (Left) 
+ Midfielder (Left)",27 years old (06-06-1990),Senegal
+James McArthur,Midfielder (Centre),29 years old (07-10-1987),Scotland
+Patrick van Aanholt,"Defender (Left) 
+ Midfielder (Left)",26 years old (29-08-1990),Netherlands
+Wayne Hennessey,Goalkeeper,30 years old (24-01-1987),Wales
+Damien Delaney,Defender (Centre),36 years old (20-07-1981),Ireland
+Connor Wickham,"Attacking Midfielder (Left) 
+ Forward",24 years old (31-03-1993),England
+Martin Kelly,"Defender (Centre, Left, Right)",27 years old (27-04-1990),England
+Joe Ledley,"Midfielder (Centre, Left)",30 years old (23-01-1987),Wales
+Lee Chung-yong,"Midfielder (Centre, Left, Right)",29 years old (02-07-1988),South Korea
+Steve Mandanda,Goalkeeper,32 years old (28-03-1985),France
+Jonathan Benteke,Forward,22 years old (28-04-1995),Belgium
+Bakary Sako,Midfielder (Left),29 years old (26-04-1988),Mali
+Ezekiel Fryers,Defender (Left),24 years old (09-09-1992),England
+Loïc Remy,"Midfielder (Left, Right) 
+ Forward",30 years old (02-01-1987),France
+Fraizer Campbell,Forward,29 years old (13-09-1987),England
+Jordon Mutch,"Midfielder (Centre, Left)",25 years old (02-12-1991),England
+Mathieu Flamini,Midfielder (Centre),33 years old (07-03-1984),France
+Sullay Kaikai,Attacking Midfielder (Left),22 years old (26-08-1995),England
+Gylfi Sigurdsson,"Midfielder (Centre, Left, Right) 
+ Forward",27 years old (08-09-1989),Iceland
+Alfie Mawson,Defender (Centre),23 years old (19-01-1994),England
+Fernando Llorente,Forward,32 years old (26-02-1985),Spain
+Kyle Naughton,"Defender (Left, Right)",28 years old (11-11-1988),England
+Federico Fernández,Defender (Centre),28 years old (21-02-1989),Argentina
+Leroy Fer,"Midfielder (Centre, Left)",27 years old (05-01-1990),Netherlands
+Tom Carroll,Midfielder (Centre),25 years old (28-05-1992),England
+Martin Olsson,Defender (Left),29 years old (17-05-1988),Sweden
+Lukasz Fabianski,Goalkeeper,32 years old (18-04-1985),Poland
+Jordan Ayew,"Attacking Midfielder (Left, Right) 
+ Forward",25 years old (11-09-1991),Ghana
+Jack Cork,Defensive Midfielder (C),28 years old (25-06-1989),England
+Angel Rangel,Defender (Right),34 years old (28-10-1982),Spain
+Jordi Amat,Defender (Centre),25 years old (21-03-1992),Spain
+Modou Barrow,Attacking Midfielder (Right),24 years old (13-10-1992),Gambia
+Jay Fulton,Defensive Midfielder (C),23 years old (04-04-1994),Scotland
+Mike van der Hoorn,Defender (Centre),24 years old (15-10-1992),Netherlands
+Neil Taylor,"Defender (Left) 
+ Midfielder (Left)",28 years old (07-02-1989),Wales
+Leon Britton,Midfielder (Centre),34 years old (16-09-1982),England
+Jefferson Montero,Midfielder (Left),27 years old (01-09-1989),Ecuador
+Wayne Routledge,"Midfielder (Centre, Left, Right) 
+ Forward",32 years old (07-01-1985),England
+Ki Sung-yueng,Defensive Midfielder (C),28 years old (24-01-1989),South Korea
+Stephen Kingsley,Defender (Left),23 years old (23-07-1994),Scotland
+Luciano Narsingh,"Attacking Midfielder (Left, Right)",26 years old (13-09-1990),Netherlands
+Kristoffer Nordfeldt,Goalkeeper,28 years old (23-06-1989),Sweden
+Nathan Dyer,Midfielder (Right),29 years old (29-11-1987),England
+Borja Bastón,Forward,25 years old (25-08-1992),Spain
+Oliver McBurnie,Midfielder (Centre),19 years old (08-05-1998),England
+Ben Mee,"Defender (Centre, Left)",27 years old (21-09-1989),England
+Michael Keane,"Defender (Centre, Right)",24 years old (11-01-1993),England
+Matthew Lowton,"Defender (Left, Right) 
+ Midfielder (Right)",28 years old (09-06-1989),England
+Joey Barton,Midfielder (Centre),34 years old (02-09-1982),England
+Tom Heaton,Goalkeeper,31 years old (15-04-1986),England
+Stephen Ward,Defender (Left),32 years old (20-08-1985),Ireland
+Sam Vokes,Forward,27 years old (21-10-1989),Wales
+Jon Flanagan,"Defender (Left, Right)",24 years old (01-01-1993),England
+Steven Defour,Defensive Midfielder (C),29 years old (15-04-1988),Belgium
+Robbie Brady,"Defender (Left) 
+ Midfielder (Centre, Left)",25 years old (14-01-1992),Ireland
+Kevin Long,Defender (Centre),27 years old (18-08-1990),Ireland
+Ashley Barnes,"Attacking Midfielder (Centre, Left) 
+ Forward",27 years old (30-10-1989),England
+George Boyd,"Midfielder (Left, Right)",31 years old (02-10-1985),Scotland
+Johann Berg Gudmundsson,"Attacking Midfielder (Centre, Left, Right)",26 years old (27-10-1990),Iceland
+Dean Marney,Midfielder (Centre),33 years old (31-01-1984),England
+Scott Arfield,"Attacking Midfielder (Centre, Left, Right)",28 years old (01-11-1988),Canada
+Paul Robinson,Goalkeeper,37 years old (15-10-1979),England
+Jeff Hendrick,"Midfielder (Centre, Right)",25 years old (31-01-1992),Ireland
+Andre Gray,Forward,26 years old (26-06-1991),England
+James Tarkowski,Defender (Centre),24 years old (19-11-1992),England
+Ashley Westwood,Defensive Midfielder (C),27 years old (01-04-1990),England
+Michael Kightly,"Midfielder (Left, Right)",31 years old (24-01-1986),England
+Aiden O'Neill,Midfielder,19 years old (04-07-1998),Australia
+Daniel Agyei,Forward,20 years old (01-06-1997),England
+Lukas Jutkiewicz,Forward,28 years old (28-03-1989),England
+David Jones,Midfielder (Centre),32 years old (04-11-1984),England
+Patrick Bamford,"Attacking Midfielder (Centre, Left, Right) 
+ Forward",23 years old (05-09-1993),England
+José Holebas,"Defender (Left) 
+ Midfielder (Left)",33 years old (27-06-1984),Greece
+Younes Kaboul,Defender (Centre),31 years old (04-01-1986),France
+Etienne Capoue,"Defender (Centre) 
+ Midfielder (Centre, Left)",29 years old (11-07-1988),France
+Troy Deeney,Forward,29 years old (29-06-1988),England
+Adrian Mariappa,"Defender (Centre, Right)",30 years old (03-10-1986),Jamaica
+Heurelho Gomes,Goalkeeper,36 years old (15-02-1981),Brazil
+Costel Pantilimon,Goalkeeper,30 years old (01-02-1987),Romania
+Mauro Zárate,"Midfielder (Centre, Left) 
+ Forward",30 years old (18-03-1987),Argentina
+Miguel Britos,"Defender (Centre, Left)",32 years old (17-07-1985),Uruguay
+M'Baye Niang,"Attacking Midfielder (Left, Right) 
+ Forward",22 years old (19-12-1994),Senegal
+Nordin Amrabat,"Midfielder (Centre, Left, Right) 
+ Forward",30 years old (31-03-1987),Morocco
+Stefano Okaka,Forward,28 years old (09-08-1989),Italy
+Sebastian Prödl,Defender (Centre),30 years old (21-06-1987),Austria
+Craig Cathcart,"Defender (Centre, Right)",28 years old (06-02-1989),N. Ireland
+Roberto Pereyra,"Midfielder (Centre, Left, Right)",26 years old (07-01-1991),Argentina
+Daryl Janmaat,"Defender (Right) 
+ Midfielder (Right)",28 years old (22-07-1989),Netherlands
+Valon Behrami,Midfielder (Centre),32 years old (19-04-1985),Switzerland
+Adlène Guédioura,Midfielder (Centre),31 years old (12-11-1985),Algeria
+Abdoulaye Doucouré,Midfielder (Centre),24 years old (01-01-1993),Mali
+Christian Kabasele,Defender (Centre),26 years old (24-02-1991),Belgium
+Isaac Success,"Attacking Midfielder (Left, Right) 
+ Forward",21 years old (07-01-1996),Nigeria
+Juan Zuñiga,"Defender (Left, Right) 
+ Midfielder (Left)",31 years old (14-12-1985),Colombia
+Odion Ighalo,"Attacking Midfielder (Centre) 
+ Forward",28 years old (16-06-1989),Nigeria
+Andrew Eleftheriou,Midfielder (Centre),19 years old (08-05-1998),England
+Brandon Mason,Defender,19 years old (30-09-1997),England
+Jerome Sinclair,Forward,20 years old (20-09-1996),England
+Michael Folivi,Midfielder (Centre),19 years old (08-05-1998),England
+Ikechi Anya,"Defender (Left) 
+ Midfielder (Left, Right) 
+ Forward",29 years old (03-01-1988),Scotland
+Matej Vydra,"Attacking Midfielder (Centre, Left) 
+ Forward",25 years old (01-05-1992),Czech Republic
+Ben Watson,Midfielder (Centre),32 years old (09-07-1985),England
+Harry Maguire,Defender (Centre),24 years old (05-03-1993),England
+Curtis Davies,Defender (Centre),32 years old (15-03-1985),England
+Andrea Ranocchia,Defender (Centre),29 years old (16-02-1988),Italy
+Lazar Markovic,"Attacking Midfielder (Centre, Left, Right)",23 years old (02-03-1994),Serbia
+Andrew Robertson,"Defender (Left) 
+ Midfielder (Left)",23 years old (11-03-1994),Scotland
+Sam Clucas,Midfielder (Centre),19 years old (08-05-1998),England
+Eldin Jakupovic,Midfielder (Centre),19 years old (08-05-1998),England
+Michael Dawson,Defender (Centre),33 years old (18-11-1983),England
+Kamil Grosicki,"Attacking Midfielder (Left, Right)",29 years old (08-06-1988),Poland
+Ahmed Elmohamady,"Defender (Right) 
+ Midfielder (Right)",29 years old (09-09-1987),Egypt
+Shaun Maloney,"Attacking Midfielder (Centre, Left, Right)",34 years old (24-01-1983),Scotland
+Alfred N'Diaye,"Defender (Centre) 
+ Midfielder (Centre)",27 years old (06-03-1990),Senegal
+Tom Huddlestone,Defensive Midfielder (C),30 years old (28-12-1986),England
+Dieumerci Mbokani,Forward,31 years old (22-11-1985),DR Congo
+Adama Diomande,"Attacking Midfielder (Left) 
+ Forward",27 years old (14-02-1990),Norway
+David Marshall,Goalkeeper,32 years old (05-03-1985),Scotland
+Abel Hernández,Forward,27 years old (08-08-1990),Uruguay
+David Meyler,"Defender (Right) 
+ Defensive Midfielder (C) 
+ Midfielder (Left, Right)",28 years old (29-05-1989),Ireland
+Evandro,Attacking Midfielder (Centre),31 years old (23-08-1986),Brazil
+Oumar Niasse,Midfielder (Centre),19 years old (08-05-1998),England
+Josh Tymon,Defender,18 years old (22-05-1999),England
+Ryan Mason,Defensive Midfielder (C),26 years old (13-06-1991),England
+Omar Elabdellaoui,"Defender (Right) 
+ Midfielder (Right)",25 years old (05-12-1991),Norway
+Markus Henriksen,Midfielder (Centre),25 years old (25-07-1992),Norway
+Jarrod Bowen,Midfielder (Centre),19 years old (08-05-1998),England
+Will Keane,Forward,24 years old (11-01-1993),England
+Adama Traoré,Attacking Midfielder (Right),21 years old (25-01-1996),Spain
+George Friend,Defender (Left),29 years old (17-10-1987),England
+Antonio Barragán,"Defender (Right) 
+ Midfielder (Right)",30 years old (12-06-1987),Spain
+Álvaro Negredo,Forward,32 years old (20-08-1985),Spain
+Gastón Ramírez,"Attacking Midfielder (Centre, Left, Right)",26 years old (02-12-1990),Uruguay
+Fabio,"Defender (Left, Right)",27 years old (09-07-1990),Brazil
+Bernardo Espinosa,Defender (Centre),28 years old (11-07-1989),Colombia
+Ben Gibson,"Defender (Centre, Left)",24 years old (15-01-1993),England
+Adam Clayton,Midfielder (Centre),28 years old (14-01-1989),England
+Daniel Ayala,Midfielder (Centre),19 years old (08-05-1998),England
+Víctor Valdés,Goalkeeper,35 years old (14-01-1982),Spain
+Marten de Roon,Defensive Midfielder (C),26 years old (29-03-1991),Netherlands
+Nsue,"Defender (Right) 
+ Midfielder (Right) 
+ Forward",27 years old (30-09-1989),Equatorial Guinea
+Adam Forshaw,Midfielder (Centre),25 years old (08-10-1991),England
+Christian Stuani,"Attacking Midfielder (Centre, Left, Right) 
+ Forward",30 years old (12-10-1986),Uruguay
+Stewart Downing,"Defender (Left) 
+ Midfielder (Centre, Left, Right)",33 years old (22-07-1984),England
+Rudy Gestede,Forward,28 years old (10-10-1988),Benin
+Brad Guzan,Goalkeeper,32 years old (09-09-1984),USA
+Grant Leadbitter,Defensive Midfielder (C),31 years old (07-01-1986),England
+Viktor Fischer,"Attacking Midfielder (Left) 
+ Forward",23 years old (09-06-1994),Denmark
+Albert Adomah,"Attacking Midfielder (Left, Right)",29 years old (13-12-1987),Ghana
+Jordan Rhodes,Forward,27 years old (05-02-1990),Scotland
+David Nugent,"Midfielder (Centre) 
+ Forward",32 years old (02-05-1985),England
+James Husband,"Defender (Left) 
+ Midfielder (Left)",23 years old (03-01-1994),England
+Jordan Pickford,Goalkeeper,23 years old (07-03-1994),England
+Papy Djilobodji,Midfielder (Centre),19 years old (08-05-1998),England
+Victor Anichebe,"Midfielder (Left) 
+ Forward",29 years old (23-04-1988),Nigeria
+Billy Jones,"Defender (Left, Right) 
+ Midfielder (Right)",30 years old (24-03-1987),England
+Lamine Koné,Defender (Centre),28 years old (01-02-1989),Ivory Coast
+Didier Ndong,Defensive Midfielder (C),23 years old (17-06-1994),Gabon
+Vito Mannone,Goalkeeper,29 years old (02-03-1988),Italy
+Jack Rodwell,Midfielder (Centre),19 years old (08-05-1998),England
+Donald Love,Midfielder (Centre),19 years old (08-05-1998),England
+Jermain Defoe,"Attacking Midfielder (Right) 
+ Forward",34 years old (07-10-1982),England
+Duncan Watmore,"Attacking Midfielder (Left, Right)",23 years old (08-03-1994),England
+John O'Shea,Defender (Centre),36 years old (30-04-1981),Ireland
+Jason Denayer,Midfielder (Centre),19 years old (08-05-1998),England
+Fabio Borini,"Attacking Midfielder (Left, Right) 
+ Forward",26 years old (29-03-1991),Italy
+Adnan Januzaj,"Attacking Midfielder (Centre, Left, Right)",22 years old (05-02-1995),Belgium
+Javier Manquillo,"Defender (Left, Right)",23 years old (05-05-1994),Spain
+George Honeyman,Midfielder (Centre),19 years old (08-05-1998),England
+Lee Cattermole,Midfielder (Centre),29 years old (21-03-1988),England
+Sebastian Larsson,"Midfielder (Centre, Right)",32 years old (06-06-1985),Sweden
+Jeremain Lens,"Attacking Midfielder (Left, Right) 
+ Forward",29 years old (24-11-1987),Netherlands
+Jan Kirchhoff,Midfielder (Centre),19 years old (08-05-1998),England
+Darron Gibson,Midfielder (Centre),29 years old (25-10-1987),Ireland
+Wahbi Khazri,"Midfielder (Centre, Left, Right)",26 years old (08-02-1991),Tunisia
+Steven Pienaar,"Midfielder (Centre, Left)",35 years old (17-03-1982),South Africa
+Lynden Gooch,Midfielder (Centre),19 years old (08-05-1998),England
+Paddy McNair,"Defender (Centre) 
+ Defensive Midfielder (C)",22 years old (27-04-1995),N. Ireland
+Joleon Lescott,"Defender (Centre, Left)",35 years old (16-08-1982),England
+Joel Asoro,Midfielder (Centre),19 years old (08-05-1998),England
